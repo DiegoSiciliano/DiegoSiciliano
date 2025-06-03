@@ -1,3 +1,5 @@
+##Biker, Gamer, Gym-Goer & Aspiring IT Pro | Living and Learning Tech Every Day
+
 Hi everyone, my name is Diego and i go to the 11th grade at a technical high school with a specialization in Computer Science. Since the beginning of my academic journey, I have developed a strong interest in technology, especially in how software and systems work behind the scenes. My education has provided me with a solid foundation in key programming languages such as Python, Java, and C++, as well as essential knowledge in computer networks, databases, operating systems, and cybersecurity principles.
 
 In addition to my studies, I enjoy exploring new technologies independently and often dedicate time to learning beyond the classroom through tutorials, online courses, and personal coding projects. I am particularly interested in understanding how software can solve real-world problems and improve everyday life.
