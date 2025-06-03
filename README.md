@@ -1,4 +1,4 @@
-## Diego Siciliano | Biker, Gamer, Gym-Goer & Aspiring IT Pro | Living and Learning Tech Every Day
+## Diego Siciliano | Itis Majorana | Biker, Gamer, Gym-Goer & Aspiring IT Pro | Living and Learning Tech Every Day
 
 Hi everyone! My name is Diego, and I'm in 11th grade at a technical high school where I study Computer Science. Since I started school, I’ve been really interested in technology, especially how software and systems work behind the scenes. My classes have taught me the basics of important programming languages like Python, Java, and C++. I’ve also learned about computer networks, databases, operating systems, and the basics of cybersecurity.
 
