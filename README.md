@@ -1,22 +1,35 @@
-## Biker, Gamer, Gym-Goer & Aspiring IT Pro | Living and Learning Tech Every Day
+## Diego Siciliano | Biker, Gamer, Gym-Goer & Aspiring IT Pro | Living and Learning Tech Every Day
 
 Hi everyone! My name is Diego, and I'm in 11th grade at a technical high school where I study Computer Science. Since I started school, I’ve been really interested in technology, especially how software and systems work behind the scenes. My classes have taught me the basics of important programming languages like Python, Java, and C++. I’ve also learned about computer networks, databases, operating systems, and the basics of cybersecurity.
 
-Outside of computer science, I have many hobbies that keep me active and help me stay balanced. I really enjoy football—both watching matches and playing with friends. I think it's a great way to learn teamwork and have fun. I’m also a big fan of Formula 1 because I love the mix of technology, speed, and strategy.
+👨‍💻 Computer Science Enthusiast
+Education: 11th grade at Technical Institute Majorana, specializing in Computer Science.
 
-In my free time, I like playing video games. They’re fun and also help me improve my creativity and problem-solving skills. I enjoy biking, especially when I want to relax and spend time outdoors. I also go to the gym regularly to stay fit, reduce stress, and build good habits.
+Programming Skills: Proficient in Python, Java, and C++.
 
-School: Technical Istitute Majorana
+Technical Knowledge: Understanding of computer networks, databases, operating systems, and cybersecurity principles.
 
-I'm from Italy.
 
-My hobbies are footbal and Formula 1.
+⚽ Sports & Hobbies
+Football: Enjoy playing and watching; values teamwork and discipline.
 
-I like to play videogames.
+Formula 1: Fascinated by the blend of technology and speed.
 
-I'm a biker.
+Video Games: Engages in gaming for fun and to enhance problem-solving skills.
 
-Also, i go to the gym.
+Biking: Regular cyclist, appreciating outdoor activities.
+
+Gym: Commits to regular workouts for physical fitness and stress relief.
+
+
+🧠 Personal Traits
+Motivated & Responsible: Dedicated to personal and academic growth.
+
+Team Player: Collaborates effectively with peers.
+
+Proactive Learner: Seeks out new challenges and learning opportunities.
+
+
 
 I consider myself a motivated and responsible student, with a strong work ethic and a proactive attitude toward learning. I work well both independently and as part of a team, and I am always looking for new challenges that allow me to grow and put my skills into practice.
 
